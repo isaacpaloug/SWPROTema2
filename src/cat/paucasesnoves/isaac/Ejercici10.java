@@ -3,8 +3,8 @@ package cat.paucasesnoves.isaac;
 public class Ejercici10 {
 
 	public static void main(String[] args) {
-		double nota = 4.9;
-		String qualificacio;
+		double nota = 9;
+		String qualificacio = "";
 		if (nota <= 4.9) {
 			qualificacio = "insuficient";
 		}
