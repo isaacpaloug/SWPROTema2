@@ -11,8 +11,9 @@ public class Ejercici2 {
 
 	*/
 	public static void main(String[] args) {
-		
-		
+		double velocitat = 120;
+		double velocitatms = velocitat * 1000 / 3600;
+		System.out.println("Velocitat convertida: " + velocitatms);
 	}
 
 }
