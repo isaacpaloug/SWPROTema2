@@ -1,4 +1,4 @@
-package cat.paucasesnoves.isaac;
+package volum1;
 
 public class Ejercici6 {
 	/**6. Donats dos sencers a i b, mostrar quin és el major de dos sencers, 

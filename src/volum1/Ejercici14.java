@@ -1,4 +1,4 @@
-package cat.paucasesnoves.isaac;
+package volum1;
 
 public class Ejercici14 {
 

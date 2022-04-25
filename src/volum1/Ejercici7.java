@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cat.paucasesnoves.isaac;
+package volum1;
 
 /**
  * @author Isaac
